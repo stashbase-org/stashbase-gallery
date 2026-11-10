@@ -21,4 +21,5 @@ sips -s format jpeg -s formatOptions 90 cover.png --out wikis/<id>/screenshots/c
 | llm-wiki-for-papers | green, screenshot of the wiki's dashboard: topics, papers, and progress | blue `#a6cbe8` |
 | software-architect | blue, screenshot of the architecture dashboard: the diagram, versions, and decisions | soft orchid `#e6d1e6` |
 | workout-tracker | violet, screenshot of the tracker page with the first week done | teal `#b4e0db` |
+| exam-tutor | sand, screenshot of the tutor's dashboard: topics, mistakes, practice, and focus | light slate `#e3eaf0` |
 | cartoon-explainer-video | violet, a frame of the guide video: the character, a photo, and the sprite sheet it becomes | — |

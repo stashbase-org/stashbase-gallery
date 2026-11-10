@@ -38,6 +38,15 @@
       "screenshot": "https://assets.stashbase.ai/wikis/software-architect/screenshots/cover-22056abf.jpg"
     },
     {
+      "id": "exam-tutor",
+      "name": "Exam Tutor",
+      "category": "education",
+      "description": "Study for your exam by answering questions from your own materials, with every mistake explained and brought back until you get it right.",
+      "about": "Prepare for an exam with an Agent that works as your tutor. For students with a pile of textbooks, slides, notes, and past papers, who learn more from answering questions than from rereading.\n\n1. Set up: say \"Set me up.\" and tell it your course and exam date. Drop your materials into the library folder; messy is fine. It reads them, writes study notes with one page per topic, and asks your first question.\n\n2. Quiz: say \"Quiz me.\" It asks one question at a time, in the style of your past papers. Answer in Chat, and it marks your answer and explains where you went off. Everything you get wrong goes into a mistake log and comes back as a new question until you get it right. You can also say \"Quiz me on my mistakes.\" or \"Give me a mock exam.\"\n\n3. Add materials: got new slides or another past paper? Drop them in and say \"Add the new materials.\" It folds them into your notes.\n\nA dashboard shows how you're doing on each topic, the mistakes still to retry, how many questions you've answered so far and each day, and the topics to focus on.",
+      "repo": "https://github.com/stashbase-org/template-exam-tutor",
+      "screenshot": "https://assets.stashbase.ai/wikis/exam-tutor/screenshots/cover-7742e16d.jpg"
+    },
+    {
       "id": "workout-tracker",
       "name": "Workout Tracker",
       "category": "fitness",
