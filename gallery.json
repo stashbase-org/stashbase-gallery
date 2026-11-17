@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-17",
   "wikis": [
     {
       "id": "linkedin-ghostwriter",
@@ -9,6 +9,15 @@
       "about": "Post on LinkedIn consistently with a ghostwriter that learns your background, your work, and how you write. For developers, builders, and professionals who want to share what they're working on without spending an evening on every post.\n\n1. Set up: say \"Set me up.\" and answer three quick questions. Paste a few past posts so it matches your style.\n\n2. Get ideas: say \"I have an idea: …\" to save your own. Or tell it about your day with \"Today I …\", and ask \"What should I post?\" to get ideas from your inbox and work notes.\n\n3. Write: say \"Write about …\" and it writes the post in your voice, with examples from your work, and asks for what's missing.\n\nA dashboard shows your ideas, drafts, and what you've posted, with your inbox one click away.",
       "repo": "https://github.com/stashbase-org/template-linkedin-ghostwriter",
       "screenshot": "https://assets.stashbase.ai/wikis/linkedin-ghostwriter/screenshots/cover-1a180588.jpg"
+    },
+    {
+      "id": "client-update-writer",
+      "name": "Client Update Writer",
+      "category": "marketing",
+      "description": "Keep clients informed with clear updates written from your notes, reports, and past work.",
+      "about": "Write regular client updates from the material you already have. For marketers and consultants sharing campaign progress, results, deliverables, or product changes with clients.\n\n1. Set up: say \"Set me up.\" and tell it about your work, your first client, and how you write to them. Share a past update so it can learn your style.\n\n2. Write: say \"Write this week's update for [client] from these notes.\" Add your notes or a report. It reads the client background and previous updates, asks for essential missing facts, then writes and saves a draft.\n\n3. Revise: say \"Shorten this update and put the request first.\" It edits the same file. Review the result and send it through your usual channel.\n\n4. Add clients: say \"Add a client: …\" to save their background and keep their source material and updates separate.\n\nA compact guide puts common prompts in one table, with copy buttons, file locations, and a worked example.",
+      "repo": "https://github.com/stashbase-org/template-client-update-writer",
+      "screenshot": "https://assets.stashbase.ai/wikis/client-update-writer/screenshots/cover-b7f83d19.jpg"
     },
     {
       "id": "llm-wiki-for-papers",

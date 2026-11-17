@@ -23,3 +23,4 @@ sips -s format jpeg -s formatOptions 90 cover.png --out wikis/<id>/screenshots/c
 | workout-tracker | violet, screenshot of the tracker page with the first week done | teal `#b4e0db` |
 | exam-tutor | sand, screenshot of the tutor's dashboard: topics, mistakes, practice, and focus | light slate `#e3eaf0` |
 | cartoon-explainer-video | violet, a frame of the guide video: the character, a photo, and the sprite sheet it becomes | — |
+| client-update-writer | blue, screenshot of the usage guide: setup, copyable prompts, and example files | — |
